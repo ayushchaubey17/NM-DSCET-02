@@ -12,3 +12,8 @@ screenshots
 <img width="514" alt="login" src="https://github.com/ayushchaubey17/NM-DSCET-02/assets/123767430/8b3eb055-c3ee-4a98-ad94-a7cc6b0a4fbe">
 <img width="512" alt="driverFinishOrder" src="https://github.com/ayushchaubey17/NM-DSCET-02/assets/123767430/237175ad-e4b7-471f-b61c-80cb3daa355e">
 <img width="511" alt="customerAddComment" src="https://github.com/ayushchaubey17/NM-DSCET-02/assets/123767430/efaa2a94-43af-4d2f-8720-e531583d3f51">
+
+
+upload srs
+[newNm1.pptx](https://github.com/ayushchaubey17/NM-DSCET-02/files/13402459/newNm1.pptx)
+
